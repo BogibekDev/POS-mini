@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/Mini-Pos1/app/src/main/res/drawable/bg_bar_code.xml" value="0.157" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/Mini-Pos1/app/src/main/res/drawable/ic_add.xml" value="0.157" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/Mini-Pos1/app/src/main/res/drawable/ic_back_button.xml" value="0.157" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/Mini-Pos1/app/src/main/res/drawable/ic_barcode.xml" value="0.157" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/Mini-Pos1/app/src/main/res/layout/fragment_add_products.xml" value="0.24102564102564103" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/Mini-Pos1/app/src/main/res/layout/fragment_edit_product.xml" value="0.4142194744976816" />
+        <entry key="..\:/Users/Coder/AndroidStudioProjects/Mini-Pos1/app/src/main/res/layout/item_product.xml" value="0.24102564102564103" />
+        <entry key="app/src/main/res/drawable/bg_bar_code.xml" value="0.124" />
+        <entry key="app/src/main/res/drawable/corner_border.xml" value="0.122" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.124" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/fragment_add_products.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/fragment_edit.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_edit_product.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/fragment_history.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_sale_products.xml" value="0.18518518518518517" />
+        <entry key="app/src/main/res/layout/item_product.xml" value="0.221875" />
+        <entry key="app/src/main/res/layout/loading.xml" value="0.22291666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

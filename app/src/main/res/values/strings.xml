@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mini POS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_products">List Products</string>
+    <string name="add_product">Add Product</string>
+    <string name="search_product">Search Product</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="save">Save</string>
+    <string name="bar_code">Bar code</string>
+    <string name="price">Price</string>
+    <string name="amount">Amount</string>
+    <string name="total">Total</string>
+    <string name="description">Description</string>
+    <string name="product_name">Product name</string>
+</resources>
